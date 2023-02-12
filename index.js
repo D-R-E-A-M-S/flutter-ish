@@ -1,5 +1,6 @@
 module.exports = function ( { types: t } ) {
     return {
+        name:'babel-plugin-flutter-ish',
         visitor: {
             CallExpression ( path ) {
                 if ( path.node.callee.type === 'Identifier' ) {

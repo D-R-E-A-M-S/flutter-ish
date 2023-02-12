@@ -1,0 +1,20 @@
+{
+    "name": "babel-plugin-flutter-ish",
+    "version": "1.0.0",
+    "description": "A babel plugin to convert the following code :",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/D-R-E-A-M-S/flutter-ish.git"
+    },
+    "keywords": [],
+    "author": "DaMiLaReE-mIcHaElL",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/D-R-E-A-M-S/flutter-ish/issues"
+    },
+    "homepage": "https://github.com/D-R-E-A-M-S/flutter-ish#readme"
+}
